@@ -1,1 +1,1 @@
-<?php echo("HELLO SDI !"); phpinfo(); ?>
+<?php echo("HELLO SDI !!!!!!!!!!!!"); ?>
