@@ -1,0 +1,1 @@
+Testowe repozytorium git openshift
