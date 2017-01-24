@@ -1,1 +1,1 @@
-<?php echo("HELLO SDI !!!!!!!!!!!!\n\n HELLO GSA !!!!"); ?>
+<?php echo("HELLO SDI !!!!!!!!!!!!\n\n"); ?>
