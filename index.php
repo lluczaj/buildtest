@@ -7,7 +7,7 @@
   $hostname = getenv('HOSTNAME');
   $build = getenv('OPENSHIFT_BUILD_NAME');
   echo "<span style='font-size: 15pt'><center><p>Hostname:<b> ".$hostname."</b></p></center></span>";
-  echo "<span style='font-size: 15pt'><center><p><b>Build: ".$build."</b></p></center></span>";
+  echo "<span style='font-size: 15pt'><center><p>Build:<b><font color='red'> ".$build."</font></b></p></center></span>";
   ?> 
  </body>
 </html>
