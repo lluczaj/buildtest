@@ -1,3 +1,3 @@
 <?php 
-echo("HELLO SDI !!!!!! Hello MUG guys ! ! ! ! !");
+echo("HELLO SDI !!!!!! Hello MUG guys ! !!! ! ! ! !");
  ?>
