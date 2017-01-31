@@ -6,7 +6,7 @@
  <?php echo '<font size="20"><center><b><p>Hello SDI ! ! !</p></b></center></font>'; 
   $hostname = getenv('HOSTNAME');
   $build = getenv('OPENSHIFT_BUILD_NAME');
-  echo "<center><p><b>Hostname: ".$hostname."</b></p></center>";
+  echo "<span style="font-size: 10pt"><center><p><b>Hostname: ".$hostname."</b></p></center></span>";
   echo "<center><p><b>Build: ".$build."</b></p></center>";
   ?> 
  </body>
