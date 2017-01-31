@@ -8,7 +8,7 @@
   $build = getenv('OPENSHIFT_BUILD_NAME');
   #echo "<font size="10"><center><b><p>Hostname:".$hostname."</p></b></center></font>";
   #echo "<font size="10"><center><b><p>Build:".$build."</p></b></center></font>";
-  echo "<b>".$hostname."</b>";
+  echo "<center><p><b>".$hostname."</b></p></center>";
   ?> 
  </body>
 </html>
