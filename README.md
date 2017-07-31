@@ -1,1 +1,1 @@
-Testowe repozytorium git openshift
+Test repository for OpenShift PHP build
