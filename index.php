@@ -12,5 +12,6 @@
      $a += $i;
   }
   ?> 
+  <img src="Big-Water.jpg" alt="Mountain View" width="1024" height="720">
  </body>
 </html>
